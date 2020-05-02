@@ -1,3 +1,3 @@
-# classWeb
-lecture repository of havard
- my name is clown
+# Project 0
+
+Web Programming with Python and JavaScript
